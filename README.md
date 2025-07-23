@@ -18,10 +18,10 @@ Author: Jason Brownlee
 
 ```
 assignment_five_part_2-machine_learning_R/
-├── machine_learning_R.ipynb # Notebook with tutorial walkthrough
 ├── README.md # This file
-├── iris.csv # Dataset required for notebook functionality
 ├── environment.yml # Conda environment definition
+├── iris.csv # Dataset required for notebook functionality
+├── machine_learning_R.ipynb # Notebook with tutorial walkthrough
 └── requirements.txt # Pip-based environment definition
 
 ```
